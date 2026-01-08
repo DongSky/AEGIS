@@ -59,6 +59,10 @@ aegis/
 
 ## 🔍 Evaluation
 
+<div>
+    <img src="assets/eval_pipeline.png" alt="drawing" width="800"/>
+</div>
+
 You can use the following command to evaluate the model.
 
 <details open>
@@ -97,6 +101,10 @@ python eval_score/understanding.py --input-json output-4o/understanding_eval/gem
 ## 🎫 License
 
 This project is released under the [MIT License](LICENSE).
+
+## 📧 Contact
+
+If you have any questions or suggestions, please feel free to contact us at [dreamerlin426@gmail.com](mailto:dreamerlin426@gmail.com).
 
 ## 📜 Citation
 
