@@ -48,7 +48,7 @@ We provide the manually-annotated data in the [HF Datasets](https://huggingface.
 aegis/
 └── data/
     ├── annotation.json
-    └──images/
+    └── images/
         ├── activity/
         ├── anime/
         ├── ...
